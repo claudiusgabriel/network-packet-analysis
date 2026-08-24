@@ -1,4 +1,4 @@
-# 📡 Network Packet Analysis — Cybersecurity Portfolio Project
+# 📡 Network Packet Analysis
 
 ## Overview
 Performed network traffic analysis using Wireshark on an isolated 
